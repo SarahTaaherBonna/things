@@ -3,3 +3,5 @@ Lychee
 Orange
 Mango
 Banana
+Kiwi
+Papaya
